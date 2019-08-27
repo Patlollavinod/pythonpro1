@@ -1,4 +1,5 @@
-print("Hello! New Python Programing")
+add_charactor = new
+print("Hello!" +add_charactor + "Python Programing")
 print("____________________________")
 a = 10
 b = 20
